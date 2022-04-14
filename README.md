@@ -15,8 +15,8 @@ This project is an effort to document my solutions to Coding Challenges in diffe
 ### [Platform 02: Log2Base2](/Platform-02-Log2Base2)
 | # | Challenge | Solution | Time Complexity | Space Complexity | Difficulty |
 |---| --------- | -------- | --------------- | ---------------- | ---------- |
-|6|[Factor of a number](https://log2base2.com/courses/problem-solving-beginners/factor-of-a-number-problem)|[Solution 01 - C](/Platform-02-Log2Base2/0006-factor-of-a-number/factor-of-a-number-solution-01.c)|xxx|xxx|Easiest|
-|||[Solution 02 - C++](/Platform-02-Log2Base2/0006-factor-of-a-number/factor-of-a-number-solution-02.cpp)|xxx|xxx|Easiest|
+|6|[Factor of a number](https://log2base2.com/courses/problem-solving-beginners/factor-of-a-number-problem)|[Solution 01 - C](/Platform-02-Log2Base2/0006-factor-of-a-number/factor-of-a-number-solution-01.c)|O(1)|O(1)|Easiest|
+|||[Solution 02 - C++](/Platform-02-Log2Base2/0006-factor-of-a-number/factor-of-a-number-solution-02.cpp)|O(1)|O(1)|Easiest|
 |5|[Sum of Natural numbers](https://log2base2.com/courses/problem-solving-beginners/sum-of-natural-numbers-problem)|[Solution 01 - C](/Platform-02-Log2Base2/0005-sum-of-natural-numbers/sum-of-natural-numbers-solution-01.c)|O(N)|O(1)|Easiest|
 |||[Solution 02 - C++](/Platform-02-Log2Base2/0005-sum-of-natural-numbers/sum-of-natural-numbers-solution-02.cpp)|O(N)|O(1)|Easiest|
 |||[Solution 03 - C](/Platform-02-Log2Base2/0005-sum-of-natural-numbers/sum-of-natural-numbers-solution-03.c)|O(1)|O(1)|Easiest|
