@@ -4,18 +4,17 @@
 ** and then prints the sum.
 */
 
-// Time Complexity = O(N)
+// Time Complexity = O(1)
 
 #include <stdio.h>
 
 int main()
 {
-    int N, sum = 0;
+    int N;
     printf("Enter a number: ");
     scanf("%d", &N);
 
-    for (int i = 1; i <= N; ++i)
-        sum += i;
+    int sum = N * (N+1) / 2;
         
     printf("Sum of natural numbers upto %d is %d\n", N, sum);
     
