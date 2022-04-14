@@ -15,6 +15,8 @@ This project is an effort to document my solutions to Coding Challenges in diffe
 ### [Platform 02: Log2Base2](/Platform-02-Log2Base2)
 | # | Challenge | Solution | Difficulty |
 |---| --------- | -------- | ---------- |
+|4|[Swap two numbers](https://log2base2.com/courses/problem-solving-beginners/swap-two-numbers-problem)|[Solution 01 - C](/Platform-02-Log2Base2/0004-swap-two-numbers/swap-two-numbers-solution-01.c)|Easiest|
+|||[Solution 02 - C++](/Platform-02-Log2Base2/0004-swap-two-numbers/swap-two-numbers-solution-02.cpp)|Easiest|
 |3|[Find whether number is Odd or Even](https://log2base2.com/courses/problem-solving-beginners/odd-or-even-problem)|[Solution 01 - C](/Platform-02-Log2Base2/0003-odd-or-even-number/odd-or-even-number-solution-01.c)|Easiest|
 |||[Solution 02 - C++](/Platform-02-Log2Base2/0003-odd-or-even-number/odd-or-even-number-solution-02.cpp)|Easiest|
 |2|[Find Absolute value of a number](https://log2base2.com/courses/problem-solving-beginners/absolute-value-of-a-number-problem)|[Solution 01 - C](/Platform-02-Log2Base2/0002-find-absolute-value-of-number/find-absolute-value-of-number-solution-01.c)|Easiest|

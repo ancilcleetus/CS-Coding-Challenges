@@ -12,11 +12,11 @@ int main()
     scanf("%d", &num);
 
     if (num > 0)
-        printf("Positive");
+        printf("Positive\n");
     else if (num < 0)
-        printf("Negative");
+        printf("Negative\n");
     else
-        printf("Neither positive nor negative");
+        printf("Neither positive nor negative\n");
     
     return 0;
 }

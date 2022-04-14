@@ -14,7 +14,7 @@ int main()
     if (num < 0)
         num = -num;
     
-    printf("Absolute value is %d\n", num);
+    std::cout << "Absolute value is " << num << std::endl;
         
     return 0;
 }

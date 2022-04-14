@@ -12,11 +12,11 @@ int main()
     std::cin >> num;
     
     if (num > 0)
-        printf("Positive");
+        std::cout << "Positive" << std::endl;
     else if (num < 0)
-        printf("Negative");
+        std::cout << "Negative" << std::endl;
     else
-        printf("Neither positive nor negative");
+        std::cout << "Neither positive nor negative" << std::endl;
         
     return 0;
 }

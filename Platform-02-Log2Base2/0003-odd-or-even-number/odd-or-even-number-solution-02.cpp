@@ -12,9 +12,9 @@ int main()
     std::cin >> num;
     
     if (num % 2 == 0)
-        printf("Even");
+        std::cout << "Even" << std::endl;
     else
-        printf("Odd");
+        std::cout << "Odd" << std::endl;
         
     return 0;
 }
