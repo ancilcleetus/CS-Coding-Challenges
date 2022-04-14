@@ -7,9 +7,9 @@ This project is an effort to document my solutions to Coding Challenges in diffe
 ### [Platform 01: AlgoDaily](/Platform-01-AlgoDaily)
 | # | Challenge | Solution | Difficulty |
 |---| --------- | -------- | ---------- |
-|1|[Reverse a String](https://algodaily.com/challenges/reverse-a-string)| [Solution 01 - Python](/Platform-01-AlgoDaily/0001-reverse-a-string/reverse-a-string-solution-01.py)|Easy|
-||| [Solution 02 - Python](/Platform-01-AlgoDaily/0001-reverse-a-string/reverse-a-string-solution-02.py)|Easy|
-||| [Solution 03 - Python](/Platform-01-AlgoDaily/0001-reverse-a-string/reverse-a-string-solution-03.py)|Easy|
+|1|[Reverse a String](https://algodaily.com/challenges/reverse-a-string)|[Solution 01 - Python](/Platform-01-AlgoDaily/0001-reverse-a-string/reverse-a-string-solution-01.py)|Easy|
+|||[Solution 02 - Python](/Platform-01-AlgoDaily/0001-reverse-a-string/reverse-a-string-solution-02.py)|Easy|
+|||[Solution 03 - Python](/Platform-01-AlgoDaily/0001-reverse-a-string/reverse-a-string-solution-03.py)|Easy|
 
 
 ### [Platform 02: Log2Base2](/Platform-02-Log2Base2)
@@ -17,3 +17,4 @@ This project is an effort to document my solutions to Coding Challenges in diffe
 |---| --------- | -------- | ---------- |
 |2|[Find Absolute value of a number](/Platform-02-Log2Base2/0002-find-absolute-value-of-number)| [Solution 01 - C](/Platform-02-Log2Base2/0002-find-absolute-value-of-number/find-absolute-value-of-number-solution-01.c)|Easy|
 |1|[Find whether number is Positive or Negative](/Platform-02-Log2Base2/0001-find-positive-or-negative-number)| [Solution 01 - C](/Platform-02-Log2Base2/0001-find-positive-or-negative-number/find-positive-or-negative-number-solution-01.c)|Easy|
+||| [Solution 02 - C++](/Platform-02-Log2Base2/0001-find-positive-or-negative-number/find-positive-or-negative-number-solution-02.cpp)|Easy|
