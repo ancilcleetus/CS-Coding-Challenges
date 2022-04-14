@@ -3,7 +3,7 @@
 ** swaps and then prints them.
 */
 
-// Uses temporary variable
+// Do not use any extra variable
 
 #include <iostream>
 
@@ -13,9 +13,9 @@ int main()
     std::cout << "Enter two numbers: ";
     std::cin >> a >> b;
     
-    int temp = a;
-    a = b;
-    b = temp;
+    a = a + b;
+    b = a - b;
+    a = a - b;
 
     std::cout << "Swapped numbers are " << a << " and " << b << std::endl;
         

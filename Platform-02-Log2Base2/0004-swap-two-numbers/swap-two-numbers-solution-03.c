@@ -3,7 +3,7 @@
 ** swaps and then prints them.
 */
 
-// Uses temporary variable
+// Do not use any extra variable
 
 #include <stdio.h>
 
@@ -13,9 +13,9 @@ int main()
     printf("Enter two numbers: ");
     scanf("%d%d", &a, &b);
 
-    int temp = a;
-    a = b;
-    b = temp;
+    a = a + b;
+    b = a - b;
+    a = a - b;
 
     printf("Swapped numbers are %d and %d\n", a, b);
     
