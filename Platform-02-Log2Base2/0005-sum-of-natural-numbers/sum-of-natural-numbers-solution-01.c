@@ -5,6 +5,7 @@
 */
 
 // Time Complexity = O(N)
+// Space Complexity = O(1)
 
 #include <stdio.h>
 
