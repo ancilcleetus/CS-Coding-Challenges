@@ -3,6 +3,9 @@
 ** prints whether it is Odd or Even.
 */
 
+// Time Complexity = O(1)
+// Space Complexity = O(1)
+
 #include <iostream>
 
 int main()
