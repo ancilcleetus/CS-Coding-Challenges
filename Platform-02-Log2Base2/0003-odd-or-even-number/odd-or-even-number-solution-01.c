@@ -3,7 +3,7 @@
 ** prints whether it is Odd or Even.
 */
 
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
 {
