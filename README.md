@@ -15,7 +15,7 @@ This project is an effort to document my solutions to Coding Challenges in diffe
 ### [Platform 02: Log2Base2](/Platform-02-Log2Base2)
 | # | Challenge | Solution | Difficulty |
 |---| --------- | -------- | ---------- |
-|2|[Find Absolute value of a number](/Platform-02-Log2Base2/0002-find-absolute-value-of-number)|[Solution 01 - C](/Platform-02-Log2Base2/0002-find-absolute-value-of-number/find-absolute-value-of-number-solution-01.c)|Easy|
-|||[Solution 02 - C++](/Platform-02-Log2Base2/0002-find-absolute-value-of-number/find-absolute-value-of-number-solution-02.cpp)|Easy|
-|1|[Find whether number is Positive or Negative](/Platform-02-Log2Base2/0001-find-positive-or-negative-number)|[Solution 01 - C](/Platform-02-Log2Base2/0001-find-positive-or-negative-number/find-positive-or-negative-number-solution-01.c)|Easy|
-|||[Solution 02 - C++](/Platform-02-Log2Base2/0001-find-positive-or-negative-number/find-positive-or-negative-number-solution-02.cpp)|Easy|
+|2|[Find Absolute value of a number](https://log2base2.com/courses/problem-solving-beginners/absolute-value-of-a-number-problem)|[Solution 01 - C](/Platform-02-Log2Base2/0002-find-absolute-value-of-number/find-absolute-value-of-number-solution-01.c)|Easiest|
+|||[Solution 02 - C++](/Platform-02-Log2Base2/0002-find-absolute-value-of-number/find-absolute-value-of-number-solution-02.cpp)|Easiest|
+|1|[Find whether number is Positive or Negative](https://log2base2.com/courses/problem-solving-beginners/positive-or-negative-problem)|[Solution 01 - C](/Platform-02-Log2Base2/0001-find-positive-or-negative-number/find-positive-or-negative-number-solution-01.c)|Easiest|
+|||[Solution 02 - C++](/Platform-02-Log2Base2/0001-find-positive-or-negative-number/find-positive-or-negative-number-solution-02.cpp)|Easiest|
