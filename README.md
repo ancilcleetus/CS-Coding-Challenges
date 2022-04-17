@@ -15,6 +15,8 @@ This project is an effort to document my solutions to Coding Challenges in diffe
 ### [Platform 02: Log2Base2](/Platform-02-Log2Base2)
 | # | Challenge | Solution | Time Complexity | Space Complexity | Difficulty |
 |---| --------- | -------- | --------------- | ---------------- | ---------- |
+|41|[Find the odd occurring number using Bitwise](https://log2base2.com/courses/problem-solving-beginners/find-the-odd-occuring-number-bitwise-problem)|[Solution 01 - C](/Platform-02-Log2Base2/0041-find-the-odd-occurring-number-bitwise/find-the-odd-occurring-number-bitwise-solution-01.c)|O(N)|O(1)|Easiest|
+|||[Solution 02 - C++](/Platform-02-Log2Base2/0041-find-the-odd-occurring-number-bitwise/find-the-odd-occurring-number-bitwise-solution-02.cpp)|O(N)|O(1)|Easiest|
 |7|[Split numbers into digits](https://log2base2.com/courses/problem-solving-beginners/split-numbers-into-digits-problem)|[Solution 01 - C](/Platform-02-Log2Base2/0007-split-numbers-into-digits/split-numbers-into-digits-solution-01.c)|O(N)|O(1)|Easiest|
 |||[Solution 02 - C++](/Platform-02-Log2Base2/0007-split-numbers-into-digits/split-numbers-into-digits-solution-02.cpp)|O(N)|O(1)|Easiest|
 |6|[Factor of a number](https://log2base2.com/courses/problem-solving-beginners/factor-of-a-number-problem)|[Solution 01 - C](/Platform-02-Log2Base2/0006-factor-of-a-number/factor-of-a-number-solution-01.c)|O(1)|O(1)|Easiest|
