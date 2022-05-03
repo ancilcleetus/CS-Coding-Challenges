@@ -14,3 +14,5 @@ class Solution:
             if n in hashset:
                 return True
             hashset.add(n)
+
+        return False
