@@ -38,7 +38,11 @@ This project is an effort to document my solutions to Coding Challenges in diffe
 
 
 ### [Platform 03: LeetCode](/Platform-03-LeetCode)
-| # | Challenge | Solution | Time Complexity | Space Complexity | Difficulty |
-|---| --------- | -------- | --------------- | ---------------- | ---------- |
-|1|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution 01 - Python](/Platform-03-LeetCode/0001-contains-duplicate/contains-duplicate-solution-01.py)|O(N)|O(N)|Easy|
-|||[Solution 02 - Python](/Platform-03-LeetCode/0001-contains-duplicate/contains-duplicate-solution-02.py)|O(N)|O(N)|Easy|
+| # | Challenge | Solution | Time Complexity | Space Complexity | Difficulty | Notes |
+|---| --------- | -------- | --------------- | ---------------- | ---------- | ----- |
+|1|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution 01 - Python](/Platform-03-LeetCode/0001-contains-duplicate/contains-duplicate-solution-01.py)|O(N)|O(N)|Easy||
+|||[Solution 02 - Python](/Platform-03-LeetCode/0001-contains-duplicate/contains-duplicate-solution-02.py)|O(N)|O(N)|Easy|Uses Python's builtin functions, Not recommended in an interview|
+|2|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution 01 - Python](/Platform-03-LeetCode/0002-valid-anagram/valid-anagram-solution-01.py)|O(N)|O(N)|Easy||
+|||[Solution 02 - Python](/Platform-03-LeetCode/0002-valid-anagram/valid-anagram-solution-02.py)|O(N)|O(N)|Easy||
+|||[Solution 03 - Python](/Platform-03-LeetCode/0002-valid-anagram/valid-anagram-solution-03.py)|O(N)|O(N)|Easy|Uses Python's builtin functions, Not recommended in an interview|
+|||[Solution 04 - Python](/Platform-03-LeetCode/0002-valid-anagram/valid-anagram-solution-04.py)|O(N)|O(N)|Easy|Uses Python's builtin functions, Not recommended in an interview|
