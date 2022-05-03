@@ -35,3 +35,10 @@ This project is an effort to document my solutions to Coding Challenges in diffe
 |||[Solution 02 - C++](/Platform-02-Log2Base2/0002-find-absolute-value-of-number/find-absolute-value-of-number-solution-02.cpp)|O(1)|O(1)|Easiest|
 |1|[Find whether number is Positive or Negative](https://log2base2.com/courses/problem-solving-beginners/positive-or-negative-problem)|[Solution 01 - C](/Platform-02-Log2Base2/0001-find-positive-or-negative-number/find-positive-or-negative-number-solution-01.c)|O(1)|O(1)|Easiest|
 |||[Solution 02 - C++](/Platform-02-Log2Base2/0001-find-positive-or-negative-number/find-positive-or-negative-number-solution-02.cpp)|O(1)|O(1)|Easiest|
+
+
+### [Platform 03: LeetCode](/Platform-03-LeetCode)
+| # | Challenge | Solution | Time Complexity | Space Complexity | Difficulty |
+|---| --------- | -------- | --------------- | ---------------- | ---------- |
+|1|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution 01 - Python](/Platform-03-LeetCode/0001-contains-duplicate/contains-duplicate-solution-01.py)|O(N)|O(N)|Easy|
+|||[Solution 02 - Python](/Platform-03-LeetCode/0001-contains-duplicate/contains-duplicate-solution-02.py)|O(N)|O(N)|Easy|
